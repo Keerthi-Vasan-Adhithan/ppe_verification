@@ -1,0 +1,6 @@
+path: /content/drive/MyDrive/ppe_dataset
+train: train/images
+val: valid/images
+test: test/images
+nc: 5
+names: ['Mask On', 'Gloves On', 'Hairnet On', 'Suit On', 'Goggles On']
