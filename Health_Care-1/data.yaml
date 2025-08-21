@@ -1,0 +1,21 @@
+names:
+- Gloves Off
+- Gloves On
+- Goggles On
+- Goggles off
+- Hairnet Off
+- Hairnet On
+- Mask Off
+- Mask On
+- Suit Off
+- Suit On
+nc: 10
+roboflow:
+  license: CC BY 4.0
+  project: health_care-fb23c
+  url: https://universe.roboflow.com/kevin-projects/health_care-fb23c/dataset/1
+  version: 1
+  workspace: kevin-projects
+test: ../test/images
+train: ../train/images
+val: ../valid/images
