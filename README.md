@@ -18,6 +18,8 @@ This project implements a **real-time computer vision system** to enhance safety
 
 ## **Demo**
 <img width="2515" height="1536" alt="output1" src="https://github.com/user-attachments/assets/4902fd2d-420d-42d0-8f93-cd0ac07d4a3d" />
+<img width="2529" height="1536" alt="Gemini_Generated_Image_2jdcjk2jdcjk2jdc" src="https://github.com/user-attachments/assets/0c770e92-bff6-4579-b1b4-3fe09cf2cec0" />
+
 
 [Watch Full Demo Video](https://youtu.be/kSj5AHVVrro) 
 
